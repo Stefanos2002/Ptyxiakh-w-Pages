@@ -142,6 +142,24 @@ export const posts = [
       "https://www.youtube.com/embed/TXukPnO9IdY?si=xQHa7PSDohzmH_Ys",
     wikipediaPage: "Spider-Man_2_(2023_video_game)",
   },
+  {
+    id: 13,
+    title: "The Legend Of Zelda: Tears Of The Kingdom",
+    background: "https://images2.alphacoders.com/130/1301855.jpg",
+    inlineImage: "https://images8.alphacoders.com/130/1301900.jpg",
+    inlineFrame:
+      "https://www.youtube.com/embed/KuZzRjUu8JQ?si=YC0t2J2AzN3s5aeB",
+    wikipediaPage: "The_Legend_of_Zelda:_Tears_of_the_Kingdom",
+  },
+  {
+    id: 14,
+    title: "The Last Of Us Part 1",
+    background: "https://images8.alphacoders.com/532/532407.jpg",
+    inlineImage: "https://images6.alphacoders.com/511/511799.jpg",
+    inlineFrame:
+      "https://www.youtube.com/embed/R2Ebc_OFeug?si=UHf-MeFnPMFYGxCv",
+    wikipediaPage: "The_Last_of_Us_Part_I",
+  },
 ];
 
 export const handleClick = (postTitle: string) => {
