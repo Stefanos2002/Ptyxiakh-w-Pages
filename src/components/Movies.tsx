@@ -36,7 +36,7 @@ const Movies = () => {
     //Link einai to a href ths next js 14
     <Link
       href={"/Movies"}
-      className="relative clip-container group text-6xl justify-center flex w-2/4 h-screen overflow-hidden grayscale hover:grayscale-0 transition duration-500 ease-in-out cursor-pointer"
+      className="relative clip-container group text-6xl justify-center flex lg:w-2/4 w-full  lg:hover:scale-100  hover:scale-105 h-screen overflow-hidden transition duration-500 ease-in-out cursor-pointer"
       onMouseEnter={handleMouseEnter}
       onMouseLeave={handleMouseLeave}
     >
@@ -45,10 +45,10 @@ const Movies = () => {
         alt="Senua image placeholder"
         layout="fill"
         objectFit="cover"
-        className="absolute hover:opacity-0 transition duration-1000  "
+        className="absolute lg:hover:opacity-0 transition duration-1000  "
         priority
       ></Image>
-      <h1 className="clip-text flex absolute top-2/4 text-white z-10 opacity-0 group-hover:opacity-100 transition duration-1000 ease-in-out">
+      <h1 className="clip-text flex absolute top-2/4 text-white z-10 lg:opacity-0 group-hover:opacity-100 lg:text-[4rem] text-[2rem]  transition duration-1000 ease-in-out">
         Movies
       </h1>
       <video

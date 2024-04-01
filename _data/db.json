@@ -1,0 +1,132 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "God Of War (2018)",
+      "background": "https://images7.alphacoders.com/714/714040.jpg",
+      "inlineImage": "https://images.alphacoders.com/129/1295494.png",
+      "inlineFrame": "https://www.youtube.com/embed/CJ_GCPaKywg?si=qjwq-xtnyvwx2c1y",
+      "wikipediaPage": "God_of_War_(2018_video_game)"
+    },
+    {
+      "id": 2,
+      "title": "Marvel's Spider-Man Remastered",
+      "background": "https://images5.alphacoders.com/132/1324653.jpeg",
+      "inlineImage": "https://images2.alphacoders.com/131/1316838.png",
+      "inlineFrame": "https://www.youtube.com/embed/K4zm30yeHHE?si=NqnING25GMXv1Yt1",
+      "wikipediaPage": "Spider-Man_(2018_video_game)"
+    },
+    {
+      "id": 3,
+      "title": "Cyberpunk 2077",
+      "background": "https://images.alphacoders.com/134/1341767.png",
+      "inlineImage": "https://picfiles.alphacoders.com/351/351021.jpg",
+      "inlineFrame": "https://www.youtube.com/embed/rViiAA3qs50?si=EOsg2FXExguGXd1Z",
+      "wikipediaPage": "Cyberpunk_2077"
+    },
+    {
+      "id": 4,
+      "title": "The Last Of Us Part 2",
+      "background": "https://images7.alphacoders.com/846/846480.png",
+      "inlineImage": "https://images4.alphacoders.com/131/1313399.png",
+      "inlineFrame": "https://www.youtube.com/embed/btmN-bWwv0A?si=F5QFi40uHShuXpum",
+      "wikipediaPage": "The_Last_of_Us_Part_II"
+    },
+    {
+      "id": 5,
+      "title": "Elden Ring",
+      "background": "https://images8.alphacoders.com/134/1347380.png",
+      "inlineImage": "https://images.alphacoders.com/135/1353166.png",
+      "inlineFrame": "https://www.youtube.com/embed/E3Huy2cdih0?si=z1AzeBm2xkUtZIhd",
+      "wikipediaPage": "Elden_Ring"
+    },
+    {
+      "id": 6,
+      "title": "Final Fantasy VII Remake",
+      "background": "https://images5.alphacoders.com/122/1226744.png",
+      "inlineImage": "https://images3.alphacoders.com/132/1323789.jpeg",
+      "inlineFrame": "https://www.youtube.com/embed/Z3xSGv3Hfio?si=6bw33xfZfwZlszHF",
+      "wikipediaPage": "Final_Fantasy_VII_Remake"
+    },
+    {
+      "id": 7,
+      "title": "Red Dead Redemption 2",
+      "background": "https://images7.alphacoders.com/749/749807.png",
+      "inlineImage": "https://images8.alphacoders.com/127/1278680.png",
+      "inlineFrame": "https://www.youtube.com/embed/Dw_oH5oiUSE?si=1wAbANK-gxToyr5L",
+      "wikipediaPage": "Red_Dead_Redemption_2"
+    },
+    {
+      "id": 8,
+      "title": "Batman: Arkham Knight",
+      "background": "https://images6.alphacoders.com/593/593543.jpg",
+      "inlineImage": "https://images5.alphacoders.com/129/1291887.jpg",
+      "inlineFrame": "https://www.youtube.com/embed/Bm-6kYvPEdM?si=c5im_5byltNvy5IW",
+      "wikipediaPage": "Batman:_Arkham_Knight"
+    },
+    {
+      "id": 9,
+      "title": "Doom Eternal",
+      "background": "https://images4.alphacoders.com/106/1068875.jpg",
+      "inlineImage": "https://images.alphacoders.com/130/1303637.jpeg",
+      "inlineFrame": "https://www.youtube.com/embed/6xPFAWL9nPQ?si=gPKgJaKXIQ-Kp0yo",
+      "wikipediaPage": "Doom_Eternal"
+    },
+    {
+      "id": 10,
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "background": "https://images.alphacoders.com/789/789452.jpg",
+      "inlineImage": "https://images7.alphacoders.com/557/557051.jpg",
+      "inlineFrame": "https://www.youtube.com/embed/Cjw9ZpzVz7o?si=rgOzQskIytOblr4s",
+      "wikipediaPage": "The_Legend_of_Zelda:_Breath_of_the_Wild"
+    },
+    {
+      "id": 11,
+      "title": "God of War: Ragnarök",
+      "background": "https://images.alphacoders.com/130/1308951.jpeg",
+      "inlineImage": "https://images7.alphacoders.com/134/1344715.png",
+      "inlineFrame": "https://www.youtube.com/embed/TXukPnO9IdY?si=xQHa7PSDohzmH_Ys",
+      "wikipediaPage": "God_of_War_Ragnarök"
+    },
+    {
+      "id": 12,
+      "title": "Marvel's Spider-man 2",
+      "background": "https://images.alphacoders.com/130/1308951.jpeg",
+      "inlineImage": "https://images7.alphacoders.com/134/1344715.png",
+      "inlineFrame": "https://www.youtube.com/embed/TXukPnO9IdY?si=xQHa7PSDohzmH_Ys",
+      "wikipediaPage": "Spider-Man_2_(2023_video_game)"
+    },
+    {
+      "id": 13,
+      "title": "The Legend Of Zelda: Tears Of The Kingdom",
+      "background": "https://images2.alphacoders.com/130/1301855.jpg",
+      "inlineImage": "https://images8.alphacoders.com/130/1301900.jpg",
+      "inlineFrame": "https://www.youtube.com/embed/KuZzRjUu8JQ?si=YC0t2J2AzN3s5aeB",
+      "wikipediaPage": "The_Legend_of_Zelda:_Tears_of_the_Kingdom"
+    },
+    {
+      "id": 14,
+      "title": "The Last Of Us Part 1",
+      "background": "https://images8.alphacoders.com/532/532407.jpg",
+      "inlineImage": "https://images6.alphacoders.com/511/511799.jpg",
+      "inlineFrame": "https://www.youtube.com/embed/R2Ebc_OFeug?si=UHf-MeFnPMFYGxCv",
+      "wikipediaPage": "The_Last_of_Us_Part_I"
+    },
+    {
+      "id": 15,
+      "title": "Doom (2016)",
+      "background": "https://images5.alphacoders.com/739/739702.jpg",
+      "inlineImage": "https://images3.alphacoders.com/600/600906.jpg",
+      "inlineFrame": "https://www.youtube.com/embed/RO90omga8D4?si=OWpoaqeiGN_Jx0HX",
+      "wikipediaPage": "Doom_(2016_video_game)"
+    },
+    {
+      "id": 16,
+      "title": "Star Wars Jedi: Fallen Order",
+      "background": "https://images2.alphacoders.com/128/1287723.jpg",
+      "inlineImage": "https://images.alphacoders.com/128/1287716.jpg",
+      "inlineFrame": "https://www.youtube.com/embed/8939aURV9Dc?si=zBw26h1IL3FJVpCM",
+      "wikipediaPage": "Star_Wars_Jedi:_Fallen_Order"
+    }
+  ]
+}

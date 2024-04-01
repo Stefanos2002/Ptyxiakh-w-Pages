@@ -15,10 +15,10 @@ interface Post {
 // Specify the type of the 'posts' prop using the 'Post' interface
 interface Props {
   posts: Post[];
-  onSearch: (postTitle: string) => void;
+  //  onSearch: (postTitle: string) => void;
 }
 
-const SearchBar: React.FC<Props> = ({ posts, onSearch }) => {
+const SearchBar: React.FC<Props> = ({ posts }) => {
   const [search, setSearch] = useState<Post[]>([]);
   const [inputValue, setInputValue] = useState(""); // State to manage input value // State to manage input value
   const [visible, setVisible] = useState(false);
@@ -83,7 +83,7 @@ const SearchBar: React.FC<Props> = ({ posts, onSearch }) => {
   };
 
   const handleClick = () => {
-    onSearch(inputValue);
+    // onSearch(inputValue);
   };
 
   return (
